@@ -22,6 +22,3 @@ Big-O gösterimini yazınız.
 ```
 O(nlogn)
 ```
-
-
-
