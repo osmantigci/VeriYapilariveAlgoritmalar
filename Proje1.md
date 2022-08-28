@@ -34,5 +34,3 @@ Veri Yapıları ve Algoritmalar dersine ait ödevler için oluşturulmuştur.
 2. [2,3,4,8,7,9,5,15,6]
 3. [2,3,4,5,7,9,8,15,6]
 4. [2,3,4,5,6,9,8,15,7]
-
-
